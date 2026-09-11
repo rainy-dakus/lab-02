@@ -5,7 +5,7 @@
 - **CCID:** rainy
 
 ## References and Resources
-(https://developer.android.com/courses)
+https://developer.android.com/courses
 Lab Instructions and Demo
 
 ## Verbal Collaboration
